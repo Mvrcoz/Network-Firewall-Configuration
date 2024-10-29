@@ -17,4 +17,4 @@
 ## Learnings
 - Improved understanding of firewall rules, NAT, and VPN for network security.
 
-[Network Firewall Configuration](https://docs.google.com/document/d/1az4o1enCtPKzE8dLva_2nq7N9MhBUU8e/edit?usp=sharing&ouid=100141634897900090292&rtpof=true&sd=true)
+[View the lab document](https://docs.google.com/document/d/1az4o1enCtPKzE8dLva_2nq7N9MhBUU8e/edit?usp=sharing&ouid=100141634897900090292&rtpof=true&sd=true)
